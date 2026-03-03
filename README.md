@@ -1,2 +1,2 @@
 # First-AI-Ml-project
-This is my first AI_ML project .
+My first AI_ML project .
